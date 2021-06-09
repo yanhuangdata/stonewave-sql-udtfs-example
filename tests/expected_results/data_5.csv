@@ -1,0 +1,7 @@
+num_field,int_field,str_field,bool_field,float_field,col_1,col_2,col_3,col_4
+2,2,abc,true,2.234,abc,2,true,2.345
+2,2,abc,true,2.234,abc,2,true,2.345
+,3,def,false,3.567,,,,
+3,4,opq,false,4.678,opq,4,false,2.345
+3,4,opq,false,4.678,opq,4,false,2.345
+3,4,opq,false,4.678,opq,4,false,2.345

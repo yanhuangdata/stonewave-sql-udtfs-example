@@ -1,0 +1,4 @@
+num_field,int_field,str_field,bool_field,float_field
+2,2,abc,true,2.234
+,3,def,false,3.567
+3,4,opq,false,4.678

@@ -1,0 +1,7 @@
+example_func/info.toml
+example_func/version.py
+.venv
+dist
+build
+**/__pycache__
+poetry.lock
