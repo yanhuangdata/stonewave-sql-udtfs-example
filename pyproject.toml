@@ -3,7 +3,7 @@ requires = [ "poetry-core>=1.0.0",]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "stonewave-sql-udtfs-example"
+name = "example-func"
 version = "0.1.0"
 description = "example python user defined table function for stonewave service"
 authors = [ "Jiangtao Peng <pengjiangtao@yanhuangdata.com>",]
